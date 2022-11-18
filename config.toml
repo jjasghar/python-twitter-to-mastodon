@@ -1,0 +1,11 @@
+
+[mastodon]
+server=""
+bot_token=""
+
+[twitter]
+bearer_token=""
+name=""
+
+[redis]
+index="5"
